@@ -1,5 +1,5 @@
 import time, os, requests, json, asyncio, aioconsole, inspect, argparse, sys, winreg
-from io import BytesIO
+from io import BytesIO #
 from PIL import Image
 from urllib3.exceptions import MaxRetryError, NameResolutionError
 from requests.exceptions import ConnectionError
